@@ -7,7 +7,7 @@
 
 ## Udonarium関連
 ### [Udonarium-2d](https://udonarium2d.netlify.app)
-平面化したユドナリウム
+平面化したユドナリウム  
 変更箇所は[こちら](https://gist.github.com/blhsrwznrghfzpr/68750e46fd74867d9854e06e3cc6b3e0)
 
 ### [ユドナリウムのキャラコマを作るやつ](https://udontools.netlify.app/#/charazip)
