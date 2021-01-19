@@ -2,6 +2,7 @@
 管理してるオンセツールとかの説明とかリンクとか
 - [Twitter](https://twitter.com/trpg_yoshi)
 - [GitHub](https://github.com/blhsrwznrghfzpr)
+- [はてブ](https://dinosaur-fossil.hatenablog.com/) 備忘録的なもの
 
 ---
 
