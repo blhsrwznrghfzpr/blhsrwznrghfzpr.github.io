@@ -6,6 +6,11 @@
 
 ---
 
+## [Role&Roll バックナンバー](https://faint-curve-d1c.notion.site/Role-Roll-82b22d55ef1d47b1aabef3b0f803fc55)
+電子書籍化されてるvol.200以降のやつを人力でまとめたもの。
+
+---
+
 ## Udonarium関連
 ### [Udonarium-2d](https://udonarium2d.netlify.app)
 平面化したユドナリウム  
